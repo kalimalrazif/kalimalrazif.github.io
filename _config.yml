@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sitio de prueba
-email: nomarmora@gmail.com
+#email: nomarmora@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Esta es una descripcion temporal de este sitio de pruebas, estoy
   probando las bondades de Jekyll en las github pages.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kalimalrazif.github.io" # the base hostname & protocol for your site
 #url: "http://localhost:4000" # the base hostname & protocol for your site
-twitter_username: kalimalrazif
+#twitter_username: kalimalrazif
 github_username:  kalimalrazif
 
 # Build settings
